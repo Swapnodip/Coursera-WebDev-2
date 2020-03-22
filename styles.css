@@ -24,13 +24,12 @@ div.col {
  margin-bottom: 15px;
  float: left;
  padding: 10px;
- border: 1px solid green;
 }
 
 div.container {
  border: 2px solid black;
  background-color: yellow;
- position: relative;
+ /*position: relative;*/
  font-size: 20px;
 }
 
