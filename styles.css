@@ -46,8 +46,8 @@ div.container {
  background-color: #f5ea92;
  position: relative;
  font-size: 20px;
- padding: 10px;
- padding-top: 30px;
+ /*padding: 10px;
+ padding-top: 30px;*/
 }
 
 @media (min-width: 992px) {
