@@ -20,6 +20,18 @@ h2 {
  border: 2px solid black;
 }
 
+#chicken {
+ background-color: light-green;
+}
+
+#beef {
+ background-color: orange;
+}
+
+#chicken {
+ background-color: light-blue;
+}
+
 div.col {
  margin-bottom: 15px;
  float: left;
