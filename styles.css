@@ -18,6 +18,9 @@ h2 {
  margin-bottom: 10px;
  text-align: center;
  border: 2px solid black;
+ position: absolute;
+ top: 0;
+ right: 0;
 }
 
 #chicken {
