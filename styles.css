@@ -24,6 +24,7 @@ div.col {
  margin-bottom: 15px;
  float: left;
  padding: 10px;
+ border: 1px solid green;
 }
 
 div.container {
