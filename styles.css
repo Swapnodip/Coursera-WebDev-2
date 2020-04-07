@@ -1,7 +1,7 @@
 body {
- background-color: "green" 
+ background-color: #90ee90
 }
 
-header-nav, text {
- background-color: "blue" 
+#header-nav, #text {
+ background-color: #0894fd
 }
